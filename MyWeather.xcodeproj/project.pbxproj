@@ -13,6 +13,7 @@
 		002CDDC0295DD4FA008D7C1B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 002CDDBE295DD4FA008D7C1B /* Main.storyboard */; };
 		002CDDC2295DD4FB008D7C1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 002CDDC1295DD4FB008D7C1B /* Assets.xcassets */; };
 		002CDDC5295DD4FB008D7C1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 002CDDC3295DD4FB008D7C1B /* LaunchScreen.storyboard */; };
+		00D60652295F451300781FDB /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D60651295F451300781FDB /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		002CDDC1295DD4FB008D7C1B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		002CDDC4295DD4FB008D7C1B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		002CDDC6295DD4FB008D7C1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00D60651295F451300781FDB /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				002CDDBA295DD4FA008D7C1B /* SceneDelegate.swift */,
 				002CDDBC295DD4FA008D7C1B /* ViewController.swift */,
 				002CDDBE295DD4FA008D7C1B /* Main.storyboard */,
+				00D60651295F451300781FDB /* MyCollectionViewCell.swift */,
 				002CDDC1295DD4FB008D7C1B /* Assets.xcassets */,
 				002CDDC3295DD4FB008D7C1B /* LaunchScreen.storyboard */,
 				002CDDC6295DD4FB008D7C1B /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				002CDDBD295DD4FA008D7C1B /* ViewController.swift in Sources */,
 				002CDDB9295DD4FA008D7C1B /* AppDelegate.swift in Sources */,
+				00D60652295F451300781FDB /* MyCollectionViewCell.swift in Sources */,
 				002CDDBB295DD4FA008D7C1B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
