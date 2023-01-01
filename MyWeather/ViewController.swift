@@ -43,7 +43,7 @@ class ViewController: UIViewController {
         gradientLayer.colors = [UIColor.clear.cgColor,UIColor.yellow.withAlphaComponent(0.0).cgColor]
         
         //Şehir ve API girildi
-        let city = "Maldiv"
+        let city = "Atlanta"
         let url = URL(string: "http://api.openweathermap.org/data/2.5/weather?q=\(city)&APPID=20b43ada755ac843b75ba766f8afa9c4")
         self.locationLabel.text = "📍 \(city)"
         let session = URLSession.shared
