@@ -1,5 +1,10 @@
-# MyWeather-Swift
+MyWeather App
+This is a weather app developed in Swift that allows you to communicate with the OpenWeather API to get current weather information for your location or any desired location.
 
-A simple application that displays the weather conditions of your location.
+Features
+* Get current weather information for your location or any desired location
+* Communicate with the OpenWeather API to retrieve weather data
+* Display weather information in an easy-to-read format
 
-<img width="337" alt="SCR-20230404-mjru" src="https://user-images.githubusercontent.com/73107549/230879851-c15e900c-d645-48bc-b240-3b97440cc32e.jpeg">
+
+![Clean Modern App Portfolio Mockup Presentation-2](https://github.com/yigitkarakurt/MyWeather-Swift/assets/73107549/7d0b96ad-129f-4c56-b074-75decc01bb8c)
