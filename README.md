@@ -1,4 +1,5 @@
 MyWeather App
+
 This is a weather app developed in Swift that allows you to communicate with the OpenWeather API to get current weather information for your location or any desired location.
 
 Features
